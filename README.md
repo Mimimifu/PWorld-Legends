@@ -8,6 +8,6 @@
 Pokémon World Legends Project
 </p>
 
-# Adicionado Zip Database 2024-10-06
-# Adicionado Register sem Email 2024-10-06
+#### Adicionado Zip Database 2024-10-06
+#### Adicionado Register sem Email 2024-10-06
 
